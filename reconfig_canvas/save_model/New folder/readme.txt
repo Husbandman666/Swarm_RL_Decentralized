@@ -1,0 +1,1 @@
+new_dawn_series2: trained for left right movement in 2x2 grid(to be trained for tob botom)
